@@ -82,7 +82,7 @@ export const workExperiences = [
     pos: 'Web Developer Intern',
     duration: 'May2024 - July2024',
     title: "As a Web Development Intern at Kmirco Tech, I developed a responsive dashboard using HTML, CSS, and JavaScript, integrating real-time data through APIs. I implemented data visualizations with libraries like Chart.js and D3.js, optimizing performance and ensuring usability across devices. This experience honed my full-stack development skills.",
-    icon: '/assets/Screenshot 2025-01-21 at 3.50.51 AM 2.svg',
+    icon: 'assets/Screenshot 2025-01-21 at 3.50.51 AM 2.svg',
     animation: 'victory',
   },
   {
