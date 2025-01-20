@@ -12,13 +12,19 @@ const Footer = () => {
     
      <div className="flex gap-3">
         <div className="social-icon">
-          <img src="/assets/github.svg" alt="github" className="w-1/2 h-1/2" />
+        <a href="https://x.com/SushanthKReddy9?t=sfPpa4W-fCVu3Ru7rS93-Q&s=09">
+          <img src="/assets/github.svg" alt="github" className="w-7 h-7" />
+        </a> 
         </div>
         <div className="social-icon">
-          <img src="/assets/twitter.svg" alt="twitter" className="w-1/2 h-1/2" />
+        <a href="https://x.com/SushanthKReddy9?t=sfPpa4W-fCVu3Ru7rS93-Q&s=09">
+          <img src="/assets/twitter.svg" alt="twitter" className="w-7 h-7" />
+        </a>
         </div>
         <div className="social-icon">
-          <img src="/assets/instagram.svg" alt="instagram" className="w-1/2 h-1/2" />
+        <a href="https://x.com/SushanthKReddy9?t=sfPpa4W-fCVu3Ru7rS93-Q&s=09" >
+          <img src="/assets/instagram.svg" alt="instagram" className="w-7 h-7"/>
+        </a>  
         </div>
       </div>
 
@@ -28,3 +34,4 @@ const Footer = () => {
 };
 
 export default Footer;
+
